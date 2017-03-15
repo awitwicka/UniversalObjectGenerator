@@ -1,4 +1,4 @@
-#Task Info:
+# Task Info:
 You should create a universal generator, which will:
 
 1. Create an object of a class
